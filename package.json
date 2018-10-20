@@ -18,12 +18,12 @@
   "author": "Marc Bachmann",
   "license": "MIT",
   "devDependencies": {
-    "standard": "^5.1.1",
-    "tap-spec": "^2.2.0",
-    "tape": "^3.4.0"
+    "standard": "^12.0.1",
+    "tap-spec": "^5.0.0",
+    "tape": "^4.9.1"
   },
   "optionalDependencies": {
-    "phantomjs-prebuilt": "^2.1.4"
+    "phantomjs-prebuilt": "^2.1.16"
   },
   "repository": {
     "type": "git",
